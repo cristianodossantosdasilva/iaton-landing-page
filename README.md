@@ -22,3 +22,8 @@ A publicação oficial utilizará o domínio `iaton.ia.br`.
 ## Status
 
 Projeto de tecnologia em desenvolvimento.
+
+## Security
+
+See [Security Policy](SECURITY.md) and [Security Validation Record](docs/SECURITY-VALIDATION-2026-09-12.md).
+
